@@ -1,19 +1,19 @@
 ## How many loc should a mature developer deliver a day
-### 一个成熟的开发人员一天应该交多少行代码  
----   
-当我第一次看到这个标题的时候，我首先想到的是曾经在[知乎](https://www.zhihu.com/)看过一篇文章，讲述的是各路大佬在一天中，哪个时间段代码的产出量最高。虽然大神们的高效工作时间都大有不同，但每个大佬几乎一天中写的代码量都不会少于300行。
-**于我而言，300是一个情理之中的数字。**
 
 ---   
-### 我的理由
+When I first saw this title, the first thing that came to my mind was an article I read on [知乎](https://www.zhihu.com/) about which time of day the code output was the highest for all bosses. While productivity varies greatly, each of these gurus writes at least 300 lines of code in a given day.
+**In my opinion, 300 is a reasonable number.**
 
-- 每天的代码量不宜过多
-   在我的认知中，一个程序员并不是有了大量的代码产出量就可以变强的，代码实际上不过只是我们告诉计算机去执行任务的语句。真正有意义的是其中的内核以及思想。代码既可以是没有营养的糟粕，也可以是富含数学思想的金子。要多经过学习理论，整合多种思想，总结出自己的东西，再将其翻译成代码，这才是最有价值的过程。而对于写代码前的准备，其必然是漫长而艰辛的，需要我们查阅大量的资料以及进行大量的思考。
+---   
+### My Reasons
 
-- 每天的代码量不宜过少
-   程序员是一种掌握多种语言的职业，经常需要跟计算机打各种各样的交道。如果每天就写那么十多句代码，不仅各种语言的熟练度会下降，同时也证明着这个程序员并没有经过多少思考，也没有经过多少努力，只是非常爱划水而已。
+- ##### We shouldn't write too many loc every day
+   In my opinion, a programmer does not have a large amount of code output to become strong, the code is actually just the statement that we tell the computer to perform the task. What really matters is the kernel and the idea. Code can be either unnutritious dross or mathematical gold. It is the most valuable process to learn theories, integrate ideas, summarize what you have and translate it into code. However, the preparation before writing code must be long and hard, requiring us to consult a lot of materials and do a lot of thinking.
+
+- ##### We shouldn't write too little loc every day
+   A programmer is a multilingual occupation that often involves dealing with computers in all sorts of ways. If you write less than ten lines of code every day, not only will your proficiency in various languages decline, but it also proves that the programmer does not think much, does not make much effort, and just loves to hang out.
 
 ---
-### 总结
-每个成熟的开发人员并不一定一天就要上交准确的300行代码，这只是个约数，关键的是代码的含金量，代码中蕴含的思想等等。这些都是要经过不断地学习以及努力的。毕竟
-**我们是开发者，我们用我们的思想去改变世界**
+### Conclusion
+Every mature developer doesn't have to hand in exactly 300 lines of code a day, it's just a number of dials, it's the quality of the code, the idea behind the code, etc. These are to go through constant learning and efforts. After all,
+**We are developers. We use our minds to change the world**
